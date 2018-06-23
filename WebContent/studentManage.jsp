@@ -96,7 +96,7 @@
 	</script>
 </head>
 <body>
-	<table id="dg" class="easyui-datagrid" title="班级信息" pagination="true" 
+	<table id="dg" class="easyui-datagrid" title="学生信息" pagination="true" 
 	rownumbers="true" fitColumns="true" url="studentList" toolbar="#tb">
 		<thead>
 			<tr>
